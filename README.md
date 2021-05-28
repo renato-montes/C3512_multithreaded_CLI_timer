@@ -7,4 +7,4 @@ Once the program is run, the commands are `s` (start), `h` (halt, stop), `r` (re
 
 There are four threads: one that takes the commands, and three others that display the timer counts in their own format (an asterisk, total seconds, and minutes and seconds).
 
-![GIF animation showing the user starting, halting and restarting the multithreaded timer](/readme-img/Timer-animation.png)
+![GIF animation showing the user starting, halting and restarting the multithreaded timer](/readme-img/Timer-animation.gif)
